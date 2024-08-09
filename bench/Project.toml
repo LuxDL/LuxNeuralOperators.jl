@@ -1,0 +1,7 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+NeuralOperators = "ea5c82af-86e5-48da-8ee1-382d6ad7af4b"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+ThreadPinning = "811555cd-349b-4f26-b7bc-1f208b848042"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
